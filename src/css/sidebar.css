@@ -1,0 +1,67 @@
+.sidebar1 {
+  position: absolute;
+  height: 280vh;
+  width: 11rem;
+  border: 1px solid black;
+  border-top: none;
+  border-bottom: none;
+  left: 0px;
+}
+#button {
+  margin-left: 10px;
+  width: 20px;
+  height: 17px;
+}
+
+#icon {
+  margin-top: 20px;
+  display: flex;
+  width: 50px;
+  height: 50px;
+}
+
+#bandeiras {
+  margin-top: 40px;
+  margin: 10px;
+  width: 25px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 10px;
+  font-size: 20px;
+  list-style-type: none;
+  transition: 0.4s;
+}
+
+.selected {
+  color: red;
+}
+
+#li:hover {
+  box-shadow: 3px 13px 14px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 3px 13px 14px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 13px 14px 0px rgba(0, 0, 0, 0.75);
+}
+
+hr {
+  width: 120px;
+  opacity: 0.5;
+  border: 1px solid rgb(0, 255, 157);
+}
+
+#meuinput {
+  position: absolute;
+  border: 1px solid black;
+  width: 100%;
+  font-size: 17px;
+  height: 30px;
+  border-left: 0;
+  border-right: 0;
+  border-top: none;
+}
+
+#eastereeg {
+  width: 100%;
+  height: 61px;
+}

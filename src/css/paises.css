@@ -1,0 +1,49 @@
+#base1 {
+  position: absolute;
+  top: 30%;
+  left: 43%;
+  width: 300px;
+  height: 380px;
+}
+p{
+  font-size: 20px;
+}
+h3 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+#titulo {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  position: relative;
+}
+
+#paisDetalhes {
+  font-size: 20px;
+  margin: 10px;
+}
+
+#bandeiraDetalhe {
+  width: 310px;
+  border: 1px solid black;
+  height: 210px;
+}
+
+strong {
+  color: rgb(98, 29, 163);
+}
+
+img {
+  display: flex;
+}
+
+button {
+  width: 60px;
+  height: 30px;
+}
+
+#formData{
+  margin-top: 20px;
+}

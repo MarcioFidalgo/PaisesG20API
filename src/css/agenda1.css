@@ -1,0 +1,22 @@
+.agenda1 {
+  position: absolute;
+  left: 43%;
+  margin-top: 60px;
+}
+.agenda2 {
+}
+
+#btnVoltar {
+  position: absolute;
+  left: 11rem;
+  border: 1px solid black;
+  border-top: none;
+  border-left: none;
+  width: 100px;
+  height: 50px;
+}
+
+#img {
+  width: 300px;
+  border-radius: 30px;
+}

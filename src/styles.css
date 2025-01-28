@@ -1,0 +1,11 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+  padding: 0;
+  scrollbar-width: none;
+}
+
+#botao {
+  width: 90px;
+  height: 40px;
+}
